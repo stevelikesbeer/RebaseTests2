@@ -8,5 +8,6 @@ namespace DoCoolStuff
 {
     public class Class1
     {
+        public string AddedStuff { get; set; }
     }
 }
